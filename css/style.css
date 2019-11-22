@@ -185,7 +185,9 @@ button.btn { margin-right: -1px; }
 /*--------------------------------
 4.5 Features Block
 ----------------------------------*/
-.feature-block { border: 1px solid #ededed; padding: 30px; margin-bottom: 30px; background-color: #fff; }
+.feature-block { border: 1px solid #ededed; padding: 30px; color: #fff;margin-bottom: 30px; background-color: #74b85c; }
+.feature-block1 { border: 1px solid #ededed; padding: 30px; color:#fff; margin-bottom: 30px; background-color: #5e8edb; }
+
 .feature-text { }
 .feature-title { }
 .feature-content { margin-left: 80px; }
@@ -402,21 +404,21 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border-
 /*-----------------------------------
 8. Footer
 -------------------------------------*/
-.footer { background-color: #000 !important; padding-top: 60px; padding-bottom: 30px; color: #808080; font-weight: 400; }
+.footer { background-color: #0c4aad !important; padding-top: 60px; padding-bottom: 30px; color: #fff; font-weight: 400; }
 .footer-title { margin-bottom: 55px; color: #fff; }
 .footer-widget { margin-bottom: 30px; }
 .footer-widget ul { margin-bottom: 25px; }
 .footer-widget ul li { line-height: 1; margin-bottom: 18px; font-size: 16px; margin-top: 25px; }
-.footer-widget ul li a { font-size: 14px; color: #8e918e; text-transform: uppercase; letter-spacing: .75px; font-weight: 400; margin-left: 30px; margin-top: 1px; }
+.footer-widget ul li a { font-size: 14px; color: #fff; text-transform: uppercase; letter-spacing: .75px; font-weight: 400; margin-left: 30px; margin-top: 1px; }
 .footer-widget ul li a:hover { color: #a5d897; }
-.footer-widget ul li i { margin-right: 15px; color: #808080; font-size: 20px; }
-.footer-widget .form-control { color: #808080; background-color: transparent; border-bottom: 1px solid #808080; border-radius: 0px; margin-top: -10px; }
+.footer-widget ul li i { margin-right: 15px; color: #fff; font-size: 20px; }
+.footer-widget .form-control { color: #fff; background-color: transparent; border-bottom: 1px solid #808080; border-radius: 0px; margin-top: -10px; }
 .footer-social { margin-top: 50px; }
-.footer-social a span { font-size: 20px; padding-right: 12px; color: #58595a; }
+.footer-social a span { font-size: 20px; padding-right: 12px; color: #fff; }
 .footer-social a span:hover { color: #a5d897; }
 
 /*-------------- tiny footer ------------*/
-.tiny-footer { margin-top: 50px; font-size: 14px; color: #808080; text-align: center; }
+.tiny-footer { margin-top: 50px; font-size: 14px; color: #fff; text-align: center; }
 
 /*-----------------------------------
 9. Pages
